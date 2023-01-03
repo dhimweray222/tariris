@@ -1,0 +1,6 @@
+numpy
+streamlit
+pandas
+opencv-python
+pillow
+pip==22.3.1
