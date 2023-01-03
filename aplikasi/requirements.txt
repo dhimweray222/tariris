@@ -1,7 +1,7 @@
 numpy
 streamlit
-libglib2.0-0 
 pandas
+libglib2.0-0 
 opencv-python
 opencv-python-headless
 pillow
