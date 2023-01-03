@@ -1,5 +1,7 @@
 numpy
 streamlit
+libgl1
+libglib2.0-0 
 pandas
 opencv-python
 opencv-python-headless==4.5.3.56
