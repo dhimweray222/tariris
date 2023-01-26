@@ -3,6 +3,7 @@ from  PIL import Image, ImageEnhance
 
 
 st.title('Deteksi Masker')
+st.title('Deteksi Masker')
 
 
 uploaded_file = st.file_uploader("", type=['jpg','png','jpeg','gift'])
